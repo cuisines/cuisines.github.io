@@ -125,3 +125,6 @@ cypress/logs/broken_links_result.txt
 
 # analyse data backup
 src/data/analyse-backup.json
+
+# screenshots archives
+src/assets/screenshots/2-13
