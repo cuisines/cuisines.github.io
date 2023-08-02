@@ -4,9 +4,9 @@ name: Cypress Test Production
 
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # Run daily at 9:00 UTC
-    - cron: "0 9 * * *"
+    # - cron: "0 9 * * *"
 
 jobs:
   Cypress-Test-Production:
